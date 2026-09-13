@@ -8,3 +8,4 @@ Auto-indexed solutions and notes synced via [DevNotes](https://github.com).
 |---|---|---|---|---|
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3) | Python | [View](solutions/0009-palindrome-number.md) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3) | Python | [View](solutions/0020-valid-parentheses.md) |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e) | Python | [View](solutions/0033-search-in-rotated-sorted-array.md) |
